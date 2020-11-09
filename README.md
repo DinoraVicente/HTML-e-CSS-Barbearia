@@ -1,3 +1,3 @@
 # HTML-e-CSS-Barbearia
 
-Site feito apartir das aulas de HTML e CSS da Alura.
+Site feito a partir das aulas de HTML e CSS da Alura.
